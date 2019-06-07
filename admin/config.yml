@@ -2,7 +2,6 @@ backend:
   name: github
   repo: imadeDev/myblog
   branch: master
-  site_domain: "https://imadeblog.netlify.com/admin/#/"
 media_folder: "images/uploads"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
